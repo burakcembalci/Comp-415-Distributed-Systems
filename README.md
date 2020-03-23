@@ -1,5 +1,4 @@
-# Comp-415-Distributed-Systems  
-
+# Comp-415-Distributed-Systems
 ##Decentralized Group Messenger with Causally Ordered Multicasting and GoRPC  
 
 It involves distributed software development using the concepts of unstructured peer-
